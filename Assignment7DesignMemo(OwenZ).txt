@@ -1,0 +1,11 @@
+Why is a tree appropriate for the doctor structure?
+I believe that a tree appropriate for a doctor structure since it can help managed
+any task in a clinical decision-making since it can provide a step-by-step framework on diagnosing diseases and providing treatment to ensure that the patients recovers. I also think that a tree can help doctors to make some stable decision since they can help patient recover without being so stressed on what decision to make. 
+
+
+When might a software engineer use preorder, inorder, or postorder traversals?
+There may be a time where a software engineer might use preorder, inorder, or postorder traversals if there is a task that requires making orders in the correct way. I think software engineer can maybe use these transversal if the tree has a lot of coding and other things that's in the project.
+
+
+How do heaps help simulate real-time systems like emergency intake?
+I think heaps can help with keeping tracking of real information that's happening in real time if there is ever an emergency intake. This can lead to less accidents or fortunately mistakes that can maybe happen in the future. I think heaps can help whenever if there is any fore coming error that a person can easily fixes without any problems at all. 
